@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600;700&amp;display=swap");
+  }
+
+
+body {
+    background-color:rgb(0, 195, 205);
+} 
+
+.profilepic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    max-width: 100px;
+}
+
+h2{
+    color:white;
+    font-size:x-large;
+    font-family:'Inter', sans-serif;
+    font-weight: bolder;
+    }
+
+h4{
+    color:white;
+    font-family:'Inter', sans-serif;
+    font-weight:500;
+    font-size: medium;   
+    padding-bottom: 10px;     
+}
+
+
+.button {
+        text-align: center;
+        text-transform: lowercase;
+        background-color: black;
+        border: 1px solid black;
+        border-width: 1px;
+        width: 50%;
+        height: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 40px;
+        line-height:300%;
+        color:white;
+        font-family:'Inter', sans-serif;
+        font-weight:500;
+        font-size: medium;
+        transition-duration: 0.5s;
+        cursor: pointer; 
+    }
+
+.button:hover {
+    color: yellow;
+    width: 51%;
+}
+       
