@@ -2,15 +2,13 @@ body {
     background-image: url(assets/92e6d62b9cbb5d275463ad286218fbdf.jpg);
     background-size: cover;}
 
-@media screen and (min-width: 480px) 
+@media only screen and (max-width: 769px) 
     {
     body {
      background-color: rgb(228, 176, 202);
      background-image: none;
      background-repeat: no-repeat;
-} 
-
-
+} }
 
 .profilepic {
     display:block;
