@@ -10,28 +10,28 @@ for(let i=1; i<=5; i++)
         
         if(id=="1")
         {
-            setTimeout(function() { window.location = 'http://www.instagram.com/rainyymoon/'; }, 5000);
+            setTimeout(function() { window.open('https://www.instagram.com/rainyymoon/', "_blank") }, 5000);
         }
 
 
         else if(id=="2")
         {
-            setTimeout(function() { window.location='https://www.linkedin.com/in/chandramasaha/';}, 5000);
+            setTimeout(function() { window.open('https://www.linkedin.com/in/chandramasaha/', "_blank") }, 5000);
         }
 
         else if(id=="3")
         {
-            setTimeout(function() { window.location='https://www.figma.com/@chandrama';}, 5000);
+            setTimeout(function() { window.open('https://www.figma.com/@chandrama', "_blank") }, 5000);
         }
 
         else if(id=="4")
         {
-            setTimeout(function() { window.location='https://github.com/chandramasaha';}, 5000);
+            setTimeout(function() { window.open('https://github.com/chandramasaha', "_blank") }, 5000);
         }
 
         else 
         {
-            setTimeout(function() { window.location='https://chandramasaha.editorx.io/showcase';}, 5000);
+            setTimeout(function() { window.open('https://chandramasaha.editorx.io/showcase', "_blank") }, 5000);
         }
 
 
