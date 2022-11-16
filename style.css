@@ -21,6 +21,7 @@ body {
 
 h2{
     color:rgb(45, 45, 45);   
+    text-align: center;
     font-family: 'Poppins', sans-serif; 
     font-size: x-large;   
     font-weight: bold;
@@ -28,6 +29,7 @@ h2{
 
 h4{
     color:rgb(57, 57, 57);
+    text-align: center;
     font-family:'Poppins', sans-serif;
     font-weight:500;
     font-size: medium; 
@@ -57,7 +59,7 @@ h4{
     }
 
 .button:hover {
-    color: rgb(172, 130, 250);
+    color: rgb(177, 137, 250);
     width: 51%;
 }
        
