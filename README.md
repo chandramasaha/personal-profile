@@ -1,9 +1,6 @@
-Personal-Profile
-Website for my profile and personal links using Linktree as reference. 
-
 ### Description:
 
-Personal Profile (Linktree clone) made for Think Digital web-dev recruitments.
+Website for my personal links using Linktree as reference (made for Think Digital web-dev recruitments)
 
 It is a single-page static website that displays my personal links to various websites like LinkedIn, Instagram, Figma etc. 
 The layout was inspired by Linktree. It has a soothing, pastel gradient background, clean fonts, and a minimalistic UI.
