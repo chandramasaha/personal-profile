@@ -1,4 +1,4 @@
-# Personal-Profile--Linktree-Clone
+Personal-Profile
 Website for my profile and personal links using Linktree as reference. 
 
 ### Description:
