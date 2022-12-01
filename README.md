@@ -15,4 +15,4 @@ Languages: HTML, CSS and a bit of Vanilla JS.
 ![Screenshot 2022-11-10 132744](https://user-images.githubusercontent.com/97869414/201034877-8258ef4a-7cc8-4157-b7c5-0f5f7361f273.png)
 
 
-**Live deployment: https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/**
+**Live deployment: https://chandramasaha.github.io/personal-profile/**
